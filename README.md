@@ -1,2 +1,2 @@
 # vue-exploration
-Exploring vue.js -- hello world!
+Exploring vue.js
